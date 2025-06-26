@@ -50,7 +50,7 @@ Desenvolver um pipeline de análise e preparação de dados para prever o risco 
    ```
    pip install pandas matplotlib seaborn plotly scikit-learn imbalanced-learn
    ```
-2. Execute o notebook `Profissao Cientista de Dados M17 Projeto.ipynb` para acompanhar todas as etapas do projeto.
+2. Execute o notebook `Projeto - Processamento e Pré-Modelagem de dados.ipynb` para acompanhar todas as etapas do projeto.
 
 ## Sobre o Credit Score
 
