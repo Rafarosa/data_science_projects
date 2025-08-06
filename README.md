@@ -1,7 +1,7 @@
 # data_science_projects
 Projetos de Data Science
 
-[Fundamentos de Descoberta de dados]()
+[Fundamentos de Descoberta de dados](https://github.com/Rafarosa/data_science_projects/tree/main/Fundamentos%20de%20Descoberta%20de%20Dados)
 
 [Processamento e Pré modelagem de dados](https://github.com/Rafarosa/data_science_projects/tree/main/Processamento%20e%20Pr%C3%A9%20modelagem%20de%20dados)
 
