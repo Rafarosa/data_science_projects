@@ -23,3 +23,6 @@ Bem-vindo ao meu portfólio de projetos! Aqui você encontra soluções prática
 
 Sinta-se à vontade para explorar cada projeto e conferir os notebooks completos!  
 Entre em contato para sugestões, dúvidas ou oportunidades de colaboração.
+
+- [LinkedIn](https://www.linkedin.com/in/rafael-arr/)
+- [E-mail](rodrigues.rafaelantonio@gmail.com)
