@@ -1,4 +1,4 @@
-# Portfólio de Projetos em Ciência de Dados
+# Projetos em Ciência de Dados
 
 Bem-vindo ao meu portfólio de projetos! Aqui você encontra soluções práticas desenvolvidas durante minha jornada em Ciência de Dados, abordando desde a exploração e pré-processamento de dados até a aplicação de modelos de machine learning.
 
