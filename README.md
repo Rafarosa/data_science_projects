@@ -13,14 +13,14 @@ Bem-vindo ao meu portfólio de projetos! Aqui você encontra soluções prática
 - [Projeto Credit Score - Árvore de Decisão](https://github.com/Rafarosa/data_science_projects/tree/main/%C3%81rvore%20de%20Decis%C3%A3o%20Aplicada%20em%20Score%20de%20Cr%C3%A9dito)  
   Aplicação de algoritmos de classificação para previsão de score de crédito, com análise de desempenho e comparação de modelos.
 
-- Analytics - Operações SQL e Visualização de dados
+- [Analytics - Operações SQL e Visualização de dados](https://github.com/Rafarosa/data_science_projects/tree/main/Analytics%20-%20Opera%C3%A7%C3%B5es%20SQL%20e%20Visualiza%C3%A7%C3%A3o%20de%20dados)
+  Consultas SQL, manipulação de dados e criação de dashboards interativos.
 
 ## Tecnologias Utilizadas
 
-- Python (Jupyter Notebook)
-- Pandas, NumPy, Scikit-learn
-- Matplotlib, Seaborn, Plotly
-- SQL (MySQL, SQLite)
+- **Linguagens:** Python (Jupyter Notebook), SQL (MySQL, SQLite)
+- **Bibliotecas:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
+- **Ferramentas:** VS Code, Git/GitHub
 
 ---
 
