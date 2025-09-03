@@ -13,11 +13,14 @@ Bem-vindo ao meu portfólio de projetos! Aqui você encontra soluções prática
 - [Projeto Credit Score - Árvore de Decisão](https://github.com/Rafarosa/data_science_projects/tree/main/%C3%81rvore%20de%20Decis%C3%A3o%20Aplicada%20em%20Score%20de%20Cr%C3%A9dito)  
   Aplicação de algoritmos de classificação para previsão de score de crédito, com análise de desempenho e comparação de modelos.
 
+- Analytics - Operações SQL e Visualização de dados
+
 ## Tecnologias Utilizadas
 
 - Python (Jupyter Notebook)
 - Pandas, NumPy, Scikit-learn
 - Matplotlib, Seaborn, Plotly
+- SQL (MySQL, SQLite)
 
 ---
 
