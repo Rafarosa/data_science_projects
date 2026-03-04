@@ -19,7 +19,7 @@ Bem-vindo ao meu portfólio de projetos! Aqui você encontra soluções prática
 - [Projeto de Segmentação de Clientes | Clustering com K-Means](https://github.com/Rafarosa/data_science_projects/tree/main/Seguimenta%C3%A7%C3%A3o%20de%20Clientes%20utilizando%20K-Means)  
   Segmentação de clientes utilizando K-Means, com análise exploratória, pré-processamento, avaliação de clusters e aplicação prática para estratégias de marketing.
 
-  - [Previsão de Intenção de Compra em E-commerce](https://github.com/Rafarosa/data_science_projects/tree/main/Previs%C3%A3o%20de%20Inten%C3%A7%C3%A3o%20de%20Compra%20em%20E-commerce)  
+- [Previsão de Intenção de Compra em E-commerce](https://github.com/Rafarosa/data_science_projects/tree/main/Previs%C3%A3o%20de%20Inten%C3%A7%C3%A3o%20de%20Compra%20em%20E-commerce)  
   Desenvolvimento de modelos preditivos (Random Forest vs Regressão Logística) para classificar visitantes com alta propensão de compra, visando otimização de conversão e marketing.
 
 
