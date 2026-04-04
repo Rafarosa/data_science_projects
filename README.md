@@ -22,6 +22,9 @@ Bem-vindo ao meu portfólio de projetos! Aqui você encontra soluções prática
 - [Previsão de Intenção de Compra em E-commerce](https://github.com/Rafarosa/data_science_projects/tree/main/Previs%C3%A3o%20de%20Inten%C3%A7%C3%A3o%20de%20Compra%20em%20E-commerce)  
   Desenvolvimento de modelos preditivos (Random Forest vs Regressão Logística) para classificar visitantes com alta propensão de compra, visando otimização de conversão e marketing.
 
+- [Detecção de Fraude em Transações Bancárias]()  
+  Aplicação de técnicas de pré-processamento para dados altamente desbalanceados (SMOTETomek) e modelagem preditiva (XGBoost, Random Forest) para identificar fraudes, com foco em minimizar falsos negativos e otimizar regras de negócio no setor financeiro.
+
 
 ## Tecnologias Utilizadas
 
